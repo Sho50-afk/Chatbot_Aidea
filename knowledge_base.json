@@ -1,0 +1,44 @@
+{
+  "questions": [
+    {
+      "question": "hello",
+      "answer": "Hey there!"
+    },
+    {
+      "question": "how are you",
+      "answer": "i'm fine, how are you?"
+    },
+    {
+      "question": "hi",
+      "answer": "hello"
+    },
+    {
+      "question": "what is a cat",
+      "answer": "A cat is a small, furry, carnivorous mammal belonging to the Felidae family.  They are known for their independent nature, agility, hunting skills, and often their playful and affectionate personalities.  There are many different breeds of cats, each with its own unique characteristics in terms of appearance and temperament.  Cats are popular pets worldwide."
+    },
+    {
+      "question": "how many moons does jupiter have?",
+      "answer": "Jupiter has 95 confirmed moons."
+    },
+    {
+      "question": "how many planets are there in our solar system",
+      "answer": "There are eight planets in our solar system."
+    },
+    {
+      "question": "why is pluto not a planet?",
+      "answer": "Pluto is no longer classified as a planet because it doesn't meet all the criteria of the International Astronomical Union's (IAU) definition of a planet, which was adopted in 2006.  Specifically, Pluto fails to meet the third criterion:\n\n* **It has not cleared the neighborhood around its orbit.**  This means that Pluto's orbit shares space with many other objects of comparable size in the Kuiper Belt.  A planet, according to the IAU, must have sufficient gravity to dominate its orbital zone, clearing away smaller objects or absorbing them.  Pluto's gravity is not strong enough to do this.  It coexists with many other icy bodies in the Kuiper Belt.\n\nWhile Pluto meets the first two criteria (it orbits the Sun and is massive enough for its own gravity to make it round),  the third is crucial.  The IAU's decision was based on a better understanding of the outer solar system and the vast number of similar icy bodies discovered in the Kuiper Belt, demonstrating that Pluto is part of a larger population, not a unique planetary body.  This resulted in Pluto being reclassified as a dwarf planet."
+    },
+    {
+      "question": "what is the formula for determining the area of a circle",
+      "answer": "The formula for the area of a circle is:\n\nA = \u03c0r\u00b2\n\nWhere:\n\n* A = Area\n* \u03c0 (pi) \u2248 3.14159\n* r = radius of the circle"
+    },
+    {
+      "question": "who is the prime minister of India?",
+      "answer": "The current Prime Minister of India is Narendra Modi."
+    },
+    {
+      "question": "how is a metal rod manufactured?",
+      "answer": "The manufacturing process of a metal rod depends heavily on the desired metal, its final properties (strength, ductility, etc.), and the desired dimensions.  There isn't one single process. However, here are some common methods:\n\n**1. Casting:**\n\n* **Continuous Casting:** Molten metal is poured into a water-cooled mold, solidifying into a continuous strand. This strand is then cooled further and cut into rods of the desired length. This is a highly efficient method for mass production, particularly for steel and aluminum.\n\n* **Investment Casting (Lost-Wax Casting):** A wax model of the rod is created, coated in refractory material, and then the wax is melted out. Molten metal is poured into the resulting mold. This method allows for complex shapes but is more expensive and less efficient for large-scale production.\n\n**2. Rolling:**\n\n* **Hot Rolling:**  A heated metal ingot or billet is passed through a series of rollers, progressively reducing its cross-sectional area and forming it into a rod.  This is a common method for producing rods of various metals, especially steel.  Hot rolling improves the metal's workability.\n\n* **Cold Rolling:** Similar to hot rolling, but the metal is rolled at room temperature. This process results in a smoother surface finish and improved dimensional accuracy but requires more energy.\n\n**3. Extrusion:**\n\n* A heated metal billet is forced through a die of the desired rod shape.  This method is particularly suitable for creating rods with complex cross-sections or from materials that are difficult to roll.\n\n**4. Drawing:**\n\n* A metal rod (often already formed by rolling or extrusion) is pulled through a die to reduce its diameter and improve its surface finish.  This is a common method for producing wire, but can also be used for creating smaller diameter rods.\n\n**5. Forging:**\n\n* While less common for making long, straight rods, forging involves shaping metal using compressive forces. It can be used to create shorter, thicker rods or rods with specialized shapes.\n\n**Post-Processing:**\n\nRegardless of the primary manufacturing method, further processing steps might be necessary, including:\n\n* **Heat Treatment:**  Altering the metal's microstructure through controlled heating and cooling cycles to improve its strength, hardness, or other properties.\n* **Surface Finishing:**  Processes such as machining, grinding, polishing, or coating to achieve the desired surface quality.\n* **Straightening:**  Correcting any bends or warps in the rod.\n* **Cutting to Length:**  Cutting the continuous rod into specified lengths.\n\n\nThe specific manufacturing process chosen depends on factors like:\n\n* **Type of metal:**  Different metals have different melting points, strengths, and workability, requiring different techniques.\n* **Required dimensions and tolerances:**  Precise dimensions necessitate techniques like cold rolling or drawing.\n* **Volume of production:**  Mass production favors continuous casting and hot rolling, while smaller runs might use investment casting or extrusion.\n* **Desired properties:**  Strength, ductility, and surface finish requirements influence the choice of processes and heat treatments.\n\n\nIn short, making a metal rod isn't a simple process; it involves a tailored approach depending on the desired outcome."
+    }
+  ]
+}
