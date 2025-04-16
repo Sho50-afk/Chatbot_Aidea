@@ -61,7 +61,3 @@ def chat_bot():
 if __name__ == '__main__':
     chat_bot()
 
-
-
-    
-#Api key: AIzaSyCvn7W7KH90px7Yq6InQfHMCSkJkZv-1R4
